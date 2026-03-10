@@ -4,7 +4,7 @@ The goal of these projects is to strengthen my understanding of core Java concep
 
 ### 📂 Java Mini Projects
 
-1. Console Calculator
+1. [Console Calculator](./01-console-calculator)
 2. Number Guessing Game
 3. Simple Interest Calculator
 4. Random Password Generator
