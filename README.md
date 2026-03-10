@@ -1,3 +1,7 @@
+# ☕ Java Mini Projects
+This repository contains small Java console projects that I built while practicing Java programming.
+The goal of these projects is to strengthen my understanding of core Java concepts such as loops, conditionals, user input, and basic problem solving.
+
 ### 📂 Java Mini Projects
 
 1. Console Calculator
