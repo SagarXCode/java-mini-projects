@@ -21,3 +21,19 @@ This project was created as part of my Java practice projects to understand user
 └── src
     └── Calculator.java
 ```
+
+## 💻 Example
+```
+=== Console Calculator ===
+Enter first number: 10
+Enter operator (+, -, *, /): *
+Enter second number: 5
+Result: 50
+```
+
+## 📚 Concepts Used
+
+- Scanner for user input
+- switch statement
+- Arithmetic operators
+- Basic console output
