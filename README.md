@@ -22,6 +22,8 @@ The goal of these projects is to strengthen my understanding of core Java concep
 
 ---
 
+# 📂 Repository Structure
+
 ```
 
 java-mini-projects
