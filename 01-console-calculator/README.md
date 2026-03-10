@@ -19,7 +19,7 @@ This project was created as part of my Java practice projects to understand user
 01-console-calculator
 ├── README.md
 └── src
-    └── Calculator.java
+    └── calculator.java
 ```
 
 ## 💻 Example
@@ -37,3 +37,4 @@ Result: 50
 - switch statement
 - Arithmetic operators
 - Basic console output
+
