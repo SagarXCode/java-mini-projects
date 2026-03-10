@@ -1,3 +1,23 @@
+### 📂 Java Mini Projects
+
+1. Console Calculator
+2. Number Guessing Game
+3. Simple Interest Calculator
+4. Random Password Generator
+5. Student Grade Calculator
+6. Unit Converter
+7. Temperature Converter
+8. Multiplication Table Generator
+9. Simple To-Do List CLI
+10. Contact Manager CLI
+11. Student Management System
+12. Bank Account Simulator
+13. Simple Quiz App
+14. Rock Paper Scissors
+15. Tic Tac Toe (Console)
+
+#
+
 ```
 
 java-mini-projects
