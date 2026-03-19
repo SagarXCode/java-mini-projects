@@ -32,15 +32,15 @@ java-mini-projects
 │   └── src
 │       └── Calculator.java
 │
-├── 02-number-guessing-game
+├── 02-dynamic-simple-interest-calculator
+│   ├── README.md
+│   └── src
+│       └── DynamicSimpleInterestCalculator.java
+│
+├── 03-number-guessing-game
 │   ├── README.md
 │   └── src
 │       └── NumberGuessGame.java
-│
-├── 03-simple-interest-calculator
-│   ├── README.md
-│   └── src
-│       └── SimpleInterestCalculator.java
 │
 ├── 04-random-password-generator
 │   ├── README.md
