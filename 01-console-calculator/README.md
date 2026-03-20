@@ -15,11 +15,11 @@ This project was created as part of my Java practice projects to understand user
 #
 
 ## 📂 File Structure
-```
+```    
 01-console-calculator
-├── README.md
-└── src
-    └── calculator.java
+├── src
+│   └── calculator.java
+└── README.md
 ```
 
 ## 💻 Example

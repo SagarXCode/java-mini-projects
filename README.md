@@ -5,7 +5,7 @@ The goal of these projects is to strengthen my understanding of core Java concep
 ### 📂 Java Mini Projects
 
 1. [Console Calculator](./01-console-calculator)
-2. Dynamic Simple Interest Calculator
+2. [Dynamic Simple Interest Calculator](./02-dynamic-simple-interest-calculator)
 3. Number Guessing Game
 4. Random Password Generator
 5. Student Grade Calculator
