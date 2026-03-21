@@ -28,9 +28,9 @@ The goal of these projects is to strengthen my understanding of core Java concep
 
 java-mini-projects
 ├── 01-console-calculator
-│   ├── README.md
-│   └── src
-│       └── Calculator.java
+│   ├── src
+│   │   └── calculator.java
+│   └── README.md
 │
 ├── 02-dynamic-simple-interest-calculator
 │   ├── README.md
