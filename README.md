@@ -33,9 +33,9 @@ java-mini-projects
 │   └── README.md
 │
 ├── 02-dynamic-simple-interest-calculator
-│   ├── README.md
-│   └── src
-│       └── DynamicSimpleInterestCalculator.java
+│   ├── src
+│   │   └── DynamicSimpleInterestCalculator.java
+│   └── README.md
 │
 ├── 03-number-guessing-game
 │   ├── README.md
