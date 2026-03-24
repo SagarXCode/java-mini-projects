@@ -6,7 +6,7 @@ public class NumberGuessGame {
         Scanner sc = new Scanner(System.in);
         Random rand = new Random();
 
-        int numberToGuess = rand.nextInt(100) + 1; // Random number between 1 and 100
+        int numberToGuess = rand.nextInt(100) + 1;
         int attempts = 0;
         int userGuess = 0;
 
