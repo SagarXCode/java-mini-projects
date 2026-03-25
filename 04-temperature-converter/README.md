@@ -51,8 +51,10 @@ This project is created using **Java** and runs in the **console/terminal**.
 ## 📂 Project Structure
 
 ```
-TemperatureConverter.java
-README.md
+04-temperature-converter
+    ├── README.md
+    └── src
+        └── TemperatureConverter.java
 ```
 
 ---
