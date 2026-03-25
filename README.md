@@ -7,7 +7,7 @@ The goal of these projects is to strengthen my understanding of core Java concep
 1. [Console Calculator](./01-console-calculator)
 2. [Dynamic Simple Interest Calculator](./02-dynamic-simple-interest-calculator)
 3. [Number Guessing Game](./03-number-guessing-game)
-4. [Temperature Converter](./04-TemperatureConverter)
+4. [Temperature Converter](./04-temperature-converter)
 5. Student Grade Calculator
 6. Unit Converter
 7. Random Password Generator
@@ -42,10 +42,10 @@ java-mini-projects
 │   └── src
 │       └── NumberGuessGame.java
 │
-├── 04-random-password-generator
+├── 04-temperature-converter
 │   ├── README.md
 │   └── src
-│       └── PasswordGenerator.java
+│       └── TemperatureConverter.java
 │
 ├── 05-student-grade-calculator
 │   ├── README.md
@@ -57,10 +57,10 @@ java-mini-projects
 │   └── src
 │       └── UnitConverter.java
 │
-├── 07-temperature-converter
+├── 07-random-password-generator
 │   ├── README.md
 │   └── src
-│       └── TemperatureConverter.java
+│       └── PasswordGenerator.java
 │
 ├── 08-multiplication-table-generator
 │   ├── README.md
