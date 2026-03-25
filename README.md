@@ -7,10 +7,10 @@ The goal of these projects is to strengthen my understanding of core Java concep
 1. [Console Calculator](./01-console-calculator)
 2. [Dynamic Simple Interest Calculator](./02-dynamic-simple-interest-calculator)
 3. [Number Guessing Game](./03-number-guessing-game)
-4. Random Password Generator
+4. [Temperature Converter](./04-TemperatureConverter)
 5. Student Grade Calculator
 6. Unit Converter
-7. Temperature Converter
+7. Random Password Generator
 8. Multiplication Table Generator
 9. Simple To-Do List CLI
 10. Contact Manager CLI
