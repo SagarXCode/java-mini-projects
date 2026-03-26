@@ -15,6 +15,13 @@ The program:
 - while loop → repeat guesses
 - if-else → decision making
 
+# 📂 Project Structure 
+```
+03-number-guessing-game
+    ├── README.md
+    └── src
+        └── NumberGuessGame.java
+```
 
 # 🎮 Sample Output
 ```
