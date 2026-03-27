@@ -38,9 +38,9 @@ java-mini-projects
 │   └── README.md
 │
 ├── 03-number-guessing-game
-│   ├── README.md
-│   └── src
-│       └── NumberGuessGame.java
+│   ├── src
+│   │   └── NumberGuessGame.java
+│   └── README.md
 │
 ├── 04-temperature-converter
 │   ├── README.md
