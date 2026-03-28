@@ -43,9 +43,9 @@ java-mini-projects
 │   └── README.md
 │
 ├── 04-temperature-converter
-│   ├── README.md
-│   └── src
-│       └── TemperatureConverter.java
+│   ├── src
+│   │   └── TemperatureConverter.java
+│   └── README.md 
 │
 ├── 05-student-grade-calculator
 │   ├── README.md
