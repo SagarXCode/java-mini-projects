@@ -77,7 +77,7 @@ Fahrenheit = 77.0
 
 ---
 
-## 🎯 Learning Objectives
+## 🎯 Learning Objective
 
 * Understand Java basics
 * Learn Scanner input
