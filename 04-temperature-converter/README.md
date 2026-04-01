@@ -97,4 +97,4 @@ Fahrenheit = 77.0
 
 ## 📜 License
 
-This project is for educational purposes.
+This project is for educational purpose.
