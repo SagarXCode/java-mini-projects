@@ -86,7 +86,7 @@ Fahrenheit = 77.0
 
 ---
 
-## ⭐ Future Improvements
+## ⭐ Future Improvement
 
 * Add GUI (Swing / JavaFX)
 * Add more units (Rankine, Reaumur)
