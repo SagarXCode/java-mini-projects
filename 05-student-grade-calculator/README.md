@@ -4,8 +4,8 @@ A simple Java Console Application that calculates a student's Total Marks, Avera
 
 📌 Features
 Accepts student name
-Accepts number of subjects
-Takes marks for each subject
+Accept number of subjects
+Take marks for each subject
 Calculates:
 ✅ Total Marks
 ✅ Average Marks
