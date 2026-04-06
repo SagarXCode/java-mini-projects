@@ -1,6 +1,6 @@
 🎓 Grade Calculator
 
-A simple Java Console Application that calculate a student's Total Marks, Average, and Grade based on marks entered for multiple subjects.
+A simple Java Console Application that calculate a student's Total Marks, Average, and Grade based on marks entered for multiple subject.
 
 📌 Features
 Accepts student name
