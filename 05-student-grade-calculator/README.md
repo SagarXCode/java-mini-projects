@@ -11,3 +11,5 @@ Calculates:
 ✅ Average Marks
 ✅ Grade (A–F)
 Simple and beginner-friendly Java project
+
+📂 How to Run
