@@ -12,4 +12,10 @@ Calculates:
 ✅ Grade (A–F)
 Simple and beginner-friendly Java project
 
+🛠️ Technologies Used
+Java
+Scanner Class (User Input)
+Conditional Statements (if-else)
+Loops (for loop)
+
 📂 How to Run
