@@ -18,4 +18,14 @@ Scanner Class (User Input)
 Conditional Statements (if-else)
 Loops (for loop)
 
-📂 How to Run
+💻 Sample Output
+Enter the student's name:
+Rahul
+Enter number of subjects: 3
+Enter marks for subject 1: 85
+Enter marks for subject 2: 90
+Enter marks for subject 3: 88
+
+Total Marks: 263
+Average: 87.66666666666667
+Grade: B
