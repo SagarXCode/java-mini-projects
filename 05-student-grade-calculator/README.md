@@ -18,6 +18,10 @@ Scanner Class (User Input)
 Conditional Statements (if-else)
 Loops (for loop)
 
+📂 Project Structure
+GradeCalculator.java
+README.md
+
 💻 Sample Output
 Enter the student's name:
 Rahul
