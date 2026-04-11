@@ -34,7 +34,7 @@ Total Marks: 263
 Average: 87.66666666666667
 Grade: B
 
-md
+
 🚀 Future Improvements
 Add input validation (e.g., marks between 0–100)
 Support for grade comments (e.g., "Excellent", "Needs Improvement")
