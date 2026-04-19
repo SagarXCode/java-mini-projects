@@ -38,5 +38,5 @@ Grade: B
 🚀 Future Improvements
 1. Add input validation (e.g., marks between 0–100)
 2. Support for grade comments (e.g., "Excellent", "Needs Improvement")
-Store student records in a file
+3. Store student records in a file
 Add GUI using Java Swing or JavaFX
